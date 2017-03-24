@@ -1,0 +1,21 @@
+{
+  "name": "Database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "0.12.9",
+    "mysql": "2.13.0",
+    "objection": "0.7.10"
+  },
+  "devDependencies": {
+    "dotenv": "4.0.0",
+    "faker": "4.1.0"
+  }
+}
